@@ -1,5 +1,4 @@
 # HR-Analytics-Dashboard
-HR Analytics Dashboard
 This repository contains an HR Analytics Dashboard, likely built in Microsoft Excel or a similar spreadsheet application, designed to provide key insights into an organization's workforce. The dashboard visualizes various HR metrics, enabling better decision-making and strategic planning.
 Features
 The dashboard provides a comprehensive overview of HR data, including:
